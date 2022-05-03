@@ -24,3 +24,13 @@ body{
     height: 1024px;
     
 }
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--blanco);
+}
+
+a:hover{
+    color: var(--grisMedio);
+}

@@ -21,6 +21,26 @@ body{
     background-image: url(../img/instalacionesFondos/patrick-tomasso-GXXYkSwndP4-unsplash_INDEX.png);
     background-repeat: no-repeat;
     width: 1440px;
-    height: 1024px;
-    
+    height: 1024px;  
 }
+
+#logo_svg{
+    height: 50px;
+    width: 50px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--blanco);
+}
+
+a:hover{
+    color: var(--grisMedio);
+}
+
+.navegacion{
+    display: flex;
+}
+
+/* footer */
